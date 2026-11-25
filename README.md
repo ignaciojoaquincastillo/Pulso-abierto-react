@@ -116,8 +116,18 @@ La aplicación está publicada en Vercel:
 
 **https://pulso-abierto-react.vercel.app**
 
+
+
 El proyecto utiliza integración con GitHub para mantener el despliegue actualizado a partir de los cambios enviados al repositorio.
 
 ## Variables de entorno
 
 La configuración actual del proyecto no requiere variables de entorno para su ejecución.
+
+## Verificación final
+
+ **Pruebas ejecutadas:** Sí — conjunto de pruebas ejecutadas y aprobadas (`npm run test:run`).
+ **Build generado correctamente:** Sí — compilación sin errores (`npm run build`).
+ **Preview comprobado:** Sí — vista previa verificada en entorno local (`npm run preview`).
+ **Despliegue realizado:** Sí — publicado y accesible en producción (https://pulso-abierto-react-ic.vercel.app/).
+ **Fecha de verificación:** 25 de noviembre de 2026
